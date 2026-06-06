@@ -71,7 +71,7 @@ export default function Footer() {
             </div>
             {campsite.logo && (
               <div className="mt-6 inline-flex items-center rounded-xl bg-white/95 p-3">
-                <Image src={campsite.logo.src} alt={campsite.logo.alt} width={120} height={78} className="h-12 w-auto object-contain" />
+                <Image src={campsite.logo.src} alt={campsite.logo.alt} width={265} height={97} quality={100} sizes="170px" className="h-10 w-auto object-contain md:h-12" />
               </div>
             )}
           </div>

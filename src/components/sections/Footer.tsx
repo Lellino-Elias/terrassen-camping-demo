@@ -12,7 +12,7 @@ export default function Footer() {
 
   return (
     <footer className="border-t border-line bg-bg2">
-      <div className="mx-auto max-w-[1320px] px-5 py-16 md:px-8 md:py-20">
+      <div className="mx-auto max-w-[1320px] px-5 py-[var(--section-y)] md:px-8">
         <div className="grid gap-9 md:gap-12 md:grid-cols-[1.4fr_1fr_1fr_1fr]">
           {/* Brand + contact */}
           <div>
@@ -71,7 +71,7 @@ export default function Footer() {
             </div>
             {campsite.logo && (
               <div className="mt-6 inline-flex items-center rounded-xl bg-white/95 p-3">
-                <Image src={campsite.logo.src} alt={campsite.logo.alt} width={265} height={97} quality={100} sizes="170px" className="h-10 w-auto object-contain md:h-12" />
+                <Image src={campsite.logo.src} alt={campsite.logo.alt} width={120} height={78} className="h-12 w-auto object-contain" />
               </div>
             )}
           </div>

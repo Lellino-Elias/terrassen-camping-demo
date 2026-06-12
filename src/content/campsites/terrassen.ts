@@ -162,7 +162,7 @@ export const terrassen: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 46.676108, lng: 13.982902 },
+    coords: { lat: 46.663579, lng: 13.974444 },
     tel: "+43 4243 436",
     telHref: "tel:+434243436",
     mail: "martinz@camping.at",

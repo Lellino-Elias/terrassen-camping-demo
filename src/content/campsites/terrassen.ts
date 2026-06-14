@@ -74,10 +74,10 @@ export const terrassen: CampsiteConfig = {
     intro:
       "Auf insgesamt 280 großzügigen Stellplätzen genießt du viel Platz, Ruhe und vor allem den direkten Zugang zum Wasser — ideal für entspannte Badetage, Sonnenuntergänge am Ufer oder einfach zum Abschalten.",
     features: [
-      { title: "Terrassierte Stellplätze", text: "Schön angelegte Stellplätze auf Terrassen mit Blick auf See und Berge — für Wohnmobil, Wohnwagen und Zelt.", image: { src: `${IMG}/stellplatz-terrasse.webp`, alt: "Wohnmobile auf den terrassierten Stellplätzen am Terrassencamping" } },
+      { title: "Stellplatz mit Seeblick", text: "Großzügige Wiesenplätze mit Blick auf den See und die Berge — Natur pur direkt vor dem Wohnmobil.", image: { src: `${IMG}/wohnmobil-seeblick.webp`, alt: "Wohnmobil auf einem Stellplatz mit Blick auf den Ossiacher See" } },
       { title: "Direkt am Wasser", text: "Liegewiese und direkter Seezugang: ein Sprung ins herrliche Nass ist nie weit.", image: { src: `${IMG}/liegewiese-seezugang.webp`, alt: "Liegewiese mit direktem Zugang zum türkisen Ossiacher See" } },
       { title: "Platz für jeden Geschmack", text: "Stellplatzkategorien von Komfort über Terrasse bis zur 1. Reihe am See — du wählst die Lage, die zu dir passt.", image: { src: `${IMG}/stellplaetze-liegewiese.webp`, alt: "Sonnige Stellplätze und Liegewiese am Terrassencamping" } },
-      { title: "Stellplatz mit Seeblick", text: "Großzügige Wiesenplätze mit Blick auf den See und die Berge — Natur pur direkt vor dem Wohnmobil.", image: { src: `${IMG}/wohnmobil-seeblick.webp`, alt: "Wohnmobil auf einem Stellplatz mit Blick auf den Ossiacher See" } },
+      { title: "Terrassierte Stellplätze", text: "Schön angelegte Stellplätze auf Terrassen mit Blick auf See und Berge — für Wohnmobil, Wohnwagen und Zelt.", image: { src: `${IMG}/stellplatz-terrasse.webp`, alt: "Wohnmobile auf den terrassierten Stellplätzen am Terrassencamping" } },
       { title: "Badesteg am See", text: "Eigene Stege laden zum Sonnen, Baden und Sprung ins Wasser ein — Seeleben direkt am Platz.", image: { src: `${IMG}/badesteg.webp`, alt: "Gäste am Badesteg des Terrassencamping am Ossiacher See" } },
       { title: "Moderne Sanitäranlagen", text: "Gepflegte, moderne Sanitäranlagen mit großzügig gestaltetem Kinderbereich — Komfort für die ganze Familie.", image: { src: `${IMG}/sanitaeranlagen-familie.webp`, alt: "Familie an den modernen Sanitäranlagen am Terrassencamping" } },
     ],

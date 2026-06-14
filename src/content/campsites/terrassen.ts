@@ -39,7 +39,7 @@ export const terrassen: CampsiteConfig = {
 
   pillars: [
     { title: "Terrassen direkt am See", text: "Der terrassenförmig angelegte Platz liegt direkt am Ossiacher See — mit weitem Blick auf Wasser und Bergkulisse.", image: { src: `${IMG}/terrassen-am-see.webp`, alt: "Luftaufnahme der Terrassen des Campingplatzes direkt am Ossiacher See" } },
-    { title: "Eigenes Restaurant", text: "Regional, frisch und mit Liebe zubereitet: Wildspezialitäten von Chef Bruno und Juniorchefin Johanna sowie Bio-Rindfleisch aus dem Mölltal.", image: { src: `${IMG}/restaurant-wildgericht.webp`, alt: "Regionales Wildgericht aus dem hauseigenen Restaurant am Terrassencamping" } },
+    { title: "Eigenes Restaurant", text: "Regional, frisch, mit Liebe zubereitet: Wildspezialitäten von Chef Bruno und Johanna sowie Bio-Rindfleisch aus dem Mölltal.", image: { src: `${IMG}/restaurant-wildgericht.webp`, alt: "Regionales Wildgericht aus dem hauseigenen Restaurant am Terrassencamping" } },
     { title: "lake.bike & Aktiv", text: "Als lake.bike BaseCamp ist der Platz idealer Ausgangspunkt für Trails, Touren und herrliche Tage am und auf dem See.", image: { src: `${IMG}/biker-bank-seeblick.webp`, alt: "Zwei Mountainbiker mit Blick auf den Ossiacher See" } },
   ],
 
@@ -88,8 +88,8 @@ export const terrassen: CampsiteConfig = {
     intro:
       "Lieber feste Wände als Zelt? Vom exklusiven Premium-Mobilheim direkt am Wasser bis zum Mobilheim Comfort und dem privaten Familienbad — komfortabel ausgestattet und bereit zum Ankommen.",
     items: [
-      { name: "Premium Mobilheim", kind: "Mobilheim · direkt am See", text: "Auf 34 m² Platz für bis zu sechs Personen: drei Schlafzimmer, voll ausgestattete Küche mit Geschirrspüler und Nespresso, Klimaanlage, TV und eigene Sonnenterrasse mit direktem Seezugang.", image: { src: `${IMG}/premium-mobilheim-vom-see.webp`, alt: "Premium Mobilheime des Terrassencamping direkt am Ufer des Ossiacher Sees" }, features: ["bis 6 Personen", "3 Schlafzimmer", "direkter Seezugang"] },
-      { name: "Mobilheim Comfort", kind: "Mobilheim", text: "Modern eingerichtet für bis zu vier Personen: zwei Schlafzimmer, Bad mit Dusche und WC, Klimaanlage und Wohnküche. Von der großen überdachten Terrasse genießt du den Blick auf den Ossiacher See.", image: { src: `${IMG}/mobilheim-comfort-terrasse.webp`, alt: "Überdachte Terrasse des Mobilheim Comfort mit Liegen und Seeblick" }, features: ["bis 4 Personen", "2 Schlafzimmer", "Klimaanlage"] },
+      { name: "Premium Mobilheim", kind: "Mobilheim · direkt am See", text: "Auf 34 m² Platz für bis zu sechs Personen: drei Schlafzimmer, voll ausgestattete Küche, Klimaanlage und Terrasse mit Seezugang.", image: { src: `${IMG}/premium-mobilheim-vom-see.webp`, alt: "Premium Mobilheime des Terrassencamping direkt am Ufer des Ossiacher Sees" }, features: ["bis 6 Personen", "3 Schlafzimmer", "direkter Seezugang"] },
+      { name: "Mobilheim Comfort", kind: "Mobilheim", text: "Für bis zu vier Personen: zwei Schlafzimmer, Bad, Klimaanlage, Wohnküche und überdachte Terrasse mit Blick auf den Ossiacher See.", image: { src: `${IMG}/mobilheim-comfort-terrasse.webp`, alt: "Überdachte Terrasse des Mobilheim Comfort mit Liegen und Seeblick" }, features: ["bis 4 Personen", "2 Schlafzimmer", "Klimaanlage"] },
       { name: "Private Familienkabine", kind: "Privatbad · zum Mieten", text: "Noch mehr Komfort: Sichere dir dein eigenes Privatbad mit Dusche und WC — ganz für dich allein, neben den Sanitärhäusern.", image: { src: `${IMG}/familienkabine-privatbad.webp`, alt: "Private Familienkabine mit Dusche und zwei Waschbecken" }, priceFrom: 15, features: ["privates Bad", "Dusche & WC", "exklusiv für dich"] },
     ],
   },
@@ -110,9 +110,9 @@ export const terrassen: CampsiteConfig = {
     intro:
       "Ob auf dem Trail, im Wasser oder mit der Angel — rund um das Terrassencamping direkt am Ossiacher See wird es nie langweilig.",
     items: [
-      { title: "Mountainbiken", text: "Als lake.bike BaseCamp ist der Platz idealer Ausgangspunkt für Trails am Ossiacher Tauern — der Cody-, Miki- und Mini-Trail liegen direkt oberhalb.", image: { src: `${IMG}/lake-bike-trails.webp`, alt: "Mountainbike-Trails oberhalb des Terrassencamping am Ossiacher See" } },
+      { title: "Mountainbiken", text: "Als lake.bike BaseCamp bietet der Platz ideale Trails am Ossiacher Tauern — Cody-, Miki- und Mini-Trail direkt oberhalb.", image: { src: `${IMG}/lake-bike-trails.webp`, alt: "Mountainbike-Trails oberhalb des Terrassencamping am Ossiacher See" } },
       { title: "Baden & Schwimmen", text: "Der direkte Seezugang macht den Ossiacher See zum Badeparadies — erfrischende Stunden im herrlichen Nass direkt am Platz.", image: { src: `${IMG}/baden-im-see.webp`, alt: "Badegäste im klaren Wasser des Ossiacher Sees" } },
-      { title: "Fischen im eigenen Fischwasser", text: "Karpfen, Hechte, Zander, Reinanken und mehr: Vom Steg oder mit einem Boot befischst du das 38 ha große eigene Fischwasser direkt vom Campingplatz aus.", image: { src: `${IMG}/fischen-steg.webp`, alt: "Steg am Ossiacher See – Fischen im eigenen Fischwasser" } },
+      { title: "Fischen im eigenen Fischwasser", text: "Karpfen, Hechte, Zander und mehr: Im eigenen 38 ha großen Fischwasser angelst du direkt vom Campingplatz aus.", image: { src: `${IMG}/fischen-steg.webp`, alt: "Steg am Ossiacher See – Fischen im eigenen Fischwasser" } },
     ],
   },
 

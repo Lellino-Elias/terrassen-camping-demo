@@ -38,9 +38,9 @@ export const terrassen: CampsiteConfig = {
   },
 
   pillars: [
-    { title: "Terrassen direkt am See", text: "Der terrassenförmig angelegte Platz liegt direkt am Ossiacher See — mit weitem Blick auf Wasser und Bergkulisse.", image: { src: `${IMG}/terrassen-am-see.webp`, alt: "Luftaufnahme der Terrassen des Campingplatzes direkt am Ossiacher See" } },
+    { title: "Terrassen direkt am See", text: "Der terrassenförmig angelegte Platz liegt direkt am Ossiacher See — mit weitem Blick auf Wasser und Bergkulisse.", image: { src: `${IMG}/terrassen-luftbild-nah.webp`, alt: "Luftaufnahme der terrassierten Stellplätze des Campingplatzes am Ossiacher See" } },
     { title: "Eigenes Restaurant", text: "Regional, frisch, mit Liebe zubereitet: Wildspezialitäten von Chef Bruno und Johanna sowie Bio-Rindfleisch aus dem Mölltal.", image: { src: `${IMG}/restaurant-wildgericht.webp`, alt: "Regionales Wildgericht aus dem hauseigenen Restaurant am Terrassencamping" } },
-    { title: "lake.bike & Aktiv", text: "Als lake.bike BaseCamp ist der Platz idealer Ausgangspunkt für Trails, Touren und herrliche Tage am und auf dem See.", image: { src: `${IMG}/biker-bank-seeblick.webp`, alt: "Zwei Mountainbiker mit Blick auf den Ossiacher See" } },
+    { title: "lake.bike & Aktiv", text: "Als lake.bike BaseCamp ist der Platz idealer Ausgangspunkt für Trails, Touren und herrliche Tage am und auf dem See.", image: { src: `${IMG}/biker-bank-seeblick.webp`, alt: "Zwei Mountainbiker auf einer Bank mit Blick auf den Ossiacher See und die Stellplätze" } },
   ],
 
   usps: [
@@ -74,7 +74,7 @@ export const terrassen: CampsiteConfig = {
     intro:
       "Auf insgesamt 280 großzügigen Stellplätzen genießt du viel Platz, Ruhe und vor allem den direkten Zugang zum Wasser — ideal für entspannte Badetage, Sonnenuntergänge am Ufer oder einfach zum Abschalten.",
     features: [
-      { title: "Stellplatz mit Seeblick", text: "Großzügige Wiesenplätze mit Blick auf den See und die Berge — Natur pur direkt vor dem Wohnmobil.", image: { src: `${IMG}/wohnmobil-seeblick.webp`, alt: "Wohnmobil auf einem Stellplatz mit Blick auf den Ossiacher See" } },
+      { title: "Stellplatz mit Seeblick", text: "Großzügige Wiesenplätze mit Blick auf den See und die Berge — Natur pur direkt vor dem Wohnmobil.", image: { src: `${IMG}/wohnmobil-morgen-seeblick.webp`, alt: "Wohnmobil auf einem Stellplatz mit Morgenstimmung und Blick auf den Ossiacher See" } },
       { title: "Direkt am Wasser", text: "Liegewiese und direkter Seezugang: ein Sprung ins herrliche Nass ist nie weit.", image: { src: `${IMG}/liegewiese-seezugang.webp`, alt: "Liegewiese mit direktem Zugang zum türkisen Ossiacher See" } },
       { title: "Platz für jeden Geschmack", text: "Stellplatzkategorien von Komfort über Terrasse bis zur 1. Reihe am See — du wählst die Lage, die zu dir passt.", image: { src: `${IMG}/stellplaetze-liegewiese.webp`, alt: "Sonnige Stellplätze und Liegewiese am Terrassencamping" } },
       { title: "Terrassierte Stellplätze", text: "Schön angelegte Stellplätze auf Terrassen mit Blick auf See und Berge — für Wohnmobil, Wohnwagen und Zelt.", image: { src: `${IMG}/stellplatz-terrasse.webp`, alt: "Wohnmobile auf den terrassierten Stellplätzen am Terrassencamping" } },
@@ -101,7 +101,7 @@ export const terrassen: CampsiteConfig = {
     features: [
       { title: "Strand & Spielen", text: "Sandstrand am See, Spiel und jede Menge Platz zum Toben — beim Campen wird der Familienurlaub zum echten Abenteuer.", image: { src: `${IMG}/familie-strand-spielen.webp`, alt: "Mutter und Kinder spielen am Sandstrand des Ossiacher Sees" } },
       { title: "Sport am Platz", text: "Beachvolleyball, Tischtennis, Tennis und Fußball — auf dem Sportgelände kommt die ganze Familie in Bewegung.", image: { src: `${IMG}/beachvolleyball.webp`, alt: "Beachvolleyball auf dem Sportgelände am Terrassencamping" } },
-      { title: "Familienzeit am See", text: "Gemeinsame Stunden am Wasser, Sonne und Bergblick — hier dürfen Kinder einfach Kinder sein.", image: { src: `${IMG}/familie-am-strand.webp`, alt: "Familie am Strand des Ossiacher Sees in der Abendsonne" } },
+      { title: "Familienzeit am See", text: "Gemeinsame Stunden am Wasser, Sonne und Bergblick — hier dürfen Kinder einfach Kinder sein.", image: { src: `${IMG}/familie-steg-see.webp`, alt: "Familie spielt am Steg des Ossiacher Sees mit Bergen im Hintergrund" } },
     ],
   },
 
@@ -110,7 +110,7 @@ export const terrassen: CampsiteConfig = {
     intro:
       "Ob auf dem Trail, im Wasser oder mit der Angel — rund um das Terrassencamping direkt am Ossiacher See wird es nie langweilig.",
     items: [
-      { title: "Mountainbiken", text: "Als lake.bike BaseCamp bietet der Platz ideale Trails am Ossiacher Tauern — Cody-, Miki- und Mini-Trail direkt oberhalb.", image: { src: `${IMG}/lake-bike-trails.webp`, alt: "Mountainbike-Trails oberhalb des Terrassencamping am Ossiacher See" } },
+      { title: "Mountainbiken", text: "Als lake.bike BaseCamp bietet der Platz ideale Trails am Ossiacher Tauern — Cody-, Miki- und Mini-Trail direkt oberhalb.", image: { src: `${IMG}/mountainbike-trail-seeblick.webp`, alt: "Mountainbiker auf dem Cody-Trail mit Blick auf den Ossiacher See" } },
       { title: "Baden & Schwimmen", text: "Der direkte Seezugang macht den Ossiacher See zum Badeparadies — erfrischende Stunden im herrlichen Nass direkt am Platz.", image: { src: `${IMG}/baden-im-see.webp`, alt: "Badegäste im klaren Wasser des Ossiacher Sees" } },
       { title: "Fischen im eigenen Fischwasser", text: "Karpfen, Hechte, Zander und mehr: Im eigenen 38 ha großen Fischwasser angelst du direkt vom Campingplatz aus.", image: { src: `${IMG}/fischen-steg.webp`, alt: "Steg am Ossiacher See – Fischen im eigenen Fischwasser" } },
     ],
@@ -133,10 +133,10 @@ export const terrassen: CampsiteConfig = {
     tag: "April bis November",
     moreCount: 12,
     images: [
-      { src: `${IMG}/sonnenuntergang-steg.webp`, alt: "Sonnenuntergang am Steg über dem Ossiacher See" },
-      { src: `${IMG}/luft-panorama-see.webp`, alt: "Luftpanorama des Ossiacher Sees mit dem Campingplatz am Ufer" },
+      { src: `${IMG}/badegaeste-laufen-in-see.webp`, alt: "Badegäste laufen lachend in den Ossiacher See" },
+      { src: `${IMG}/steg-jugend-sommer.webp`, alt: "Jugendliche entspannen am Badesteg des Ossiacher Sees mit Bergblick" },
       { src: `${IMG}/restaurant-ambiente.webp`, alt: "Gäste im hauseigenen Restaurant am Terrassencamping" },
-      { src: `${IMG}/premium-mobilheim-wohnraum.webp`, alt: "Heller Wohnraum eines Premium Mobilheims am Terrassencamping" },
+      { src: `${IMG}/familie-strand-see.webp`, alt: "Mutter mit Kindern beim Spielen am Sandstrand des Ossiacher Sees" },
     ],
   },
 
